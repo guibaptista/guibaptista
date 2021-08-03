@@ -1,13 +1,9 @@
 ## Olá! Eu sou o Guilherme Baptista
 
-- 🔭 Hoje trbalho com análise de dados sísmicos
+- 🔭 Hoje trabalho com análise de dados sísmicos
 - 🌱 Estudando Python e PowerBI
 
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 Contate
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
   <div>
   <a href="https://github.com/guibaptista">
@@ -31,7 +27,7 @@
   ![Snake animation](https://github.com/guibaptista/guibaptista/blob/output/github-contribution-grid-snake.svg)
   
 </div>
-##
+
 
   
 
