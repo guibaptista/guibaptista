@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Guilherme Baptista
 
-- 🔭 Hoje trabalho com análise de dados sísmicos
+- 🔭 
 - 🌱 Estudando Python e PowerBI
 
 
