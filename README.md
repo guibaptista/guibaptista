@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Guilherme Baptista
 
-- 🔭 
-- 🌱 Estudando Python e PowerBI
+- 🔭 Atualmente atuo na área de gestão de dados sísmicos, realizando análise e controle de qualidade de dados pré-stack
+- 🌱 Estudando Python, SQL, ML e PowerBI
 
 
 
@@ -12,7 +12,7 @@
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
-  <img align="center" alt="Gui-AWS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Gui-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img align="center" alt="Gui-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Gui-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg">
    
