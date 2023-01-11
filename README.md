@@ -1,8 +1,6 @@
 ## Olá! Eu sou o Guilherme Baptista
 
-- 🔭 Atualmente atuo na área de gestão de dados sísmicos, realizando análise e controle de qualidade de dados pré-stack
-- 🌱 Estudando Python, SQL, ML e PowerBI
-
+- 🔭 Atualmente atuo como Data Engineer na empresa Ci&T
 
 
   <div>
